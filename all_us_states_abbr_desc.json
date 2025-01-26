@@ -1,0 +1,304 @@
+{
+  "states": [
+    {
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "capital": "Montgomery",
+      "fact": "Known as the 'Heart of Dixie' and the birthplace of the Civil Rights Movement."
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "capital": "Juneau",
+      "fact": "Known for its vast wilderness, glaciers, and being the largest state in the U.S. by area."
+    },
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "capital": "Phoenix",
+      "fact": "Famous for the Grand Canyon, desert landscapes, and the saguaro cactus."
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "capital": "Little Rock",
+      "fact": "Known as the 'Natural State' for its beautiful mountains, rivers, and hot springs."
+    },
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "capital": "Sacramento",
+      "fact": "Famous for Hollywood, Silicon Valley, and its diverse culture and economy."
+    },
+    {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "capital": "Denver",
+      "fact": "Known for the Rocky Mountains, skiing, and outdoor recreation."
+    },
+    {
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "capital": "Hartford",
+      "fact": "Known as the 'Constitution State' and for its historic colonial towns."
+    },
+    {
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "capital": "Dover",
+      "fact": "Known as the 'First State' for being the first to ratify the U.S. Constitution."
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "capital": "Tallahassee",
+      "fact": "Famous for its beaches, theme parks (like Disney World), and warm climate."
+    },
+    {
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "capital": "Atlanta",
+      "fact": "Known for peaches, Southern hospitality, and being the birthplace of Martin Luther King Jr."
+    },
+    {
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "capital": "Honolulu",
+      "fact": "Known for its tropical beaches, volcanoes, and unique Polynesian culture."
+    },
+    {
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "capital": "Boise",
+      "fact": "Famous for its potatoes, rugged landscapes, and outdoor activities."
+    },
+    {
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "capital": "Springfield",
+      "fact": "Known for Chicago, deep-dish pizza, and being the Land of Lincoln."
+    },
+    {
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "capital": "Indianapolis",
+      "fact": "Known as the 'Hoosier State' and for the Indianapolis 500 race."
+    },
+    {
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "capital": "Des Moines",
+      "fact": "Known for its cornfields, caucuses, and rolling plains."
+    },
+    {
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "capital": "Topeka",
+      "fact": "Known as the 'Sunflower State' and for its vast wheat fields."
+    },
+    {
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "capital": "Frankfort",
+      "fact": "Famous for bourbon, horse racing (Kentucky Derby), and bluegrass music."
+    },
+    {
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "capital": "Baton Rouge",
+      "fact": "Known for Mardi Gras, jazz music, and Creole cuisine."
+    },
+    {
+      "name": "Maine",
+      "abbreviation": "ME",
+      "capital": "Augusta",
+      "fact": "Famous for its lobster, rocky coastline, and lighthouses."
+    },
+    {
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "capital": "Annapolis",
+      "fact": "Known for Chesapeake Bay, blue crabs, and being home to the U.S. Naval Academy."
+    },
+    {
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "capital": "Boston",
+      "fact": "Known for its revolutionary history, Harvard University, and clam chowder."
+    },
+    {
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "capital": "Lansing",
+      "fact": "Famous for the Great Lakes, Motown music, and the automotive industry."
+    },
+    {
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "capital": "Saint Paul",
+      "fact": "Known as the 'Land of 10,000 Lakes' and for its cold winters."
+    },
+    {
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "capital": "Jackson",
+      "fact": "Known for blues music, Southern culture, and the Mississippi River."
+    },
+    {
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "capital": "Jefferson City",
+      "fact": "Known as the 'Show Me State' and for the Gateway Arch in St. Louis."
+    },
+    {
+      "name": "Montana",
+      "abbreviation": "MT",
+      "capital": "Helena",
+      "fact": "Famous for its mountains, national parks, and Big Sky Country."
+    },
+    {
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "capital": "Lincoln",
+      "fact": "Known for its prairies, cornfields, and the Omaha Steaks."
+    },
+    {
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "capital": "Carson City",
+      "fact": "Famous for Las Vegas, gambling, and desert landscapes."
+    },
+    {
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "capital": "Concord",
+      "fact": "Known for its first-in-the-nation presidential primary and White Mountains."
+    },
+    {
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "capital": "Trenton",
+      "fact": "Known for its beaches, diners, and proximity to New York City."
+    },
+    {
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "capital": "Santa Fe",
+      "fact": "Known for its Native American culture, desert landscapes, and green chile."
+    },
+    {
+      "name": "New York",
+      "abbreviation": "NY",
+      "capital": "Albany",
+      "fact": "Famous for New York City, the Statue of Liberty, and Broadway."
+    },
+    {
+      "name": "North Carolina",
+      "abbreviation": "NC",
+      "capital": "Raleigh",
+      "fact": "Known for the Outer Banks, barbecue, and the Research Triangle."
+    },
+    {
+      "name": "North Dakota",
+      "abbreviation": "ND",
+      "capital": "Bismarck",
+      "fact": "Known for its plains, oil production, and Scandinavian heritage."
+    },
+    {
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "capital": "Columbus",
+      "fact": "Known as the 'Buckeye State' and for being the birthplace of aviation pioneers."
+    },
+    {
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "capital": "Oklahoma City",
+      "fact": "Known for its Native American heritage, oil industry, and tornadoes."
+    },
+    {
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "capital": "Salem",
+      "fact": "Famous for its forests, mountains, and the city of Portland."
+    },
+    {
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "capital": "Harrisburg",
+      "fact": "Known for Philadelphia, the Liberty Bell, and Amish Country."
+    },
+    {
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "capital": "Providence",
+      "fact": "Known as the 'Ocean State' and for its small size and coastal beauty."
+    },
+    {
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "capital": "Columbia",
+      "fact": "Known for its beaches, historic plantations, and Southern charm."
+    },
+    {
+      "name": "South Dakota",
+      "abbreviation": "SD",
+      "capital": "Pierre",
+      "fact": "Famous for Mount Rushmore, the Badlands, and the Black Hills."
+    },
+    {
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "capital": "Nashville",
+      "fact": "Known for country music, the Great Smoky Mountains, and Memphis barbecue."
+    },
+    {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "capital": "Austin",
+      "fact": "Known for its size, cowboy culture, and the Alamo."
+    },
+    {
+      "name": "Utah",
+      "abbreviation": "UT",
+      "capital": "Salt Lake City",
+      "fact": "Famous for its national parks, skiing, and the Great Salt Lake."
+    },
+    {
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "capital": "Montpelier",
+      "fact": "Known for its maple syrup, green mountains, and fall foliage."
+    },
+    {
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "capital": "Richmond",
+      "fact": "Known as the 'Old Dominion' and for its colonial history and Shenandoah Valley."
+    },
+    {
+      "name": "Washington",
+      "abbreviation": "WA",
+      "capital": "Olympia",
+      "fact": "Famous for Seattle, coffee culture, and the Cascade Mountains."
+    },
+    {
+      "name": "West Virginia",
+      "abbreviation": "WV",
+      "capital": "Charleston",
+      "fact": "Known for its Appalachian Mountains, coal mining, and outdoor activities."
+    },
+    {
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "capital": "Madison",
+      "fact": "Known for cheese, dairy farms, and the Green Bay Packers."
+    },
+    {
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "capital": "Cheyenne",
+      "fact": "Famous for Yellowstone National Park, wide-open spaces, and cowboy culture."
+    }
+  ]
+}

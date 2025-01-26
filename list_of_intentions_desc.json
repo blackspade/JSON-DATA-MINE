@@ -1,0 +1,120 @@
+{
+  "intentions": [
+    {
+      "intention": "Adventure",
+      "meaning": "Seeking excitement, new experiences, or the thrill of the unknown."
+    },
+    {
+      "intention": "Serenity",
+      "meaning": "Looking for peace, calm, or a place to relax and reflect."
+    },
+    {
+      "intention": "Mystery",
+      "meaning": "Hoping to uncover something strange, unexplained, or enigmatic."
+    },
+    {
+      "intention": "Beauty",
+      "meaning": "Searching for something visually stunning or aesthetically pleasing."
+    },
+    {
+      "intention": "Connection",
+      "meaning": "Seeking a sense of belonging, community, or a meaningful encounter."
+    },
+    {
+      "intention": "Discovery",
+      "meaning": "Wanting to find something new, whether it's an object, place, or idea."
+    },
+    {
+      "intention": "Fear",
+      "meaning": "Exploring feelings of fear or confronting something unsettling."
+    },
+    {
+      "intention": "Joy",
+      "meaning": "Looking for something that brings happiness or laughter."
+    },
+    {
+      "intention": "Inspiration",
+      "meaning": "Seeking a spark of creativity or a new perspective."
+    },
+    {
+      "intention": "History",
+      "meaning": "Hoping to find something with historical significance or a connection to the past."
+    },
+    {
+      "intention": "Nature",
+      "meaning": "Wanting to connect with the natural world, such as plants, animals, or landscapes."
+    },
+    {
+      "intention": "Love",
+      "meaning": "Seeking a romantic or heartfelt experience."
+    },
+    {
+      "intention": "Curiosity",
+      "meaning": "Exploring with an open mind, without a specific goal in mind."
+    },
+    {
+      "intention": "Challenge",
+      "meaning": "Looking for something that pushes you out of your comfort zone."
+    },
+    {
+      "intention": "Reflection",
+      "meaning": "Seeking a place or experience that encourages introspection."
+    },
+    {
+      "intention": "Synchronicity",
+      "meaning": "Hoping to encounter meaningful coincidences or signs."
+    },
+    {
+      "intention": "Abundance",
+      "meaning": "Seeking a sense of richness, whether material or spiritual."
+    },
+    {
+      "intention": "Isolation",
+      "meaning": "Looking for a place of solitude or separation from others."
+    },
+    {
+      "intention": "Transformation",
+      "meaning": "Seeking an experience that leads to personal growth or change."
+    },
+    {
+      "intention": "Nostalgia",
+      "meaning": "Hoping to find something that evokes memories or a sense of the past."
+    },
+    {
+      "intention": "Energy",
+      "meaning": "Looking for a place or object that feels charged or vibrant."
+    },
+    {
+      "intention": "Surprise",
+      "meaning": "Open to whatever comes your way, without specific expectations."
+    },
+    {
+      "intention": "Healing",
+      "meaning": "Seeking a place or experience that promotes emotional or physical well-being."
+    },
+    {
+      "intention": "Magic",
+      "meaning": "Hoping to encounter something inexplicable or otherworldly."
+    },
+    {
+      "intention": "Freedom",
+      "meaning": "Looking for a sense of liberation or release from constraints."
+    },
+    {
+      "intention": "Community",
+      "meaning": "Seeking a place or experience that fosters a sense of togetherness."
+    },
+    {
+      "intention": "Mysticism",
+      "meaning": "Exploring the spiritual or metaphysical aspects of existence."
+    },
+    {
+      "intention": "Playfulness",
+      "meaning": "Looking for something fun, lighthearted, or whimsical."
+    },
+    {
+      "intention": "Clarity",
+      "meaning": "Seeking a place or experience that brings mental focus or understanding."
+    }
+  ]
+}

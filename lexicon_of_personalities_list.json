@@ -1,0 +1,184 @@
+{
+  "personality_types": [
+    {
+      "type": "The Intellectual",
+      "description": "Highly educated, analytical, and often academic or research-oriented.",
+      "language_samples": [
+        "Uses complex vocabulary and technical jargon.",
+        "Prefers precise, formal language.",
+        "Example: 'The correlation between these variables is statistically significant.'"
+      ]
+    },
+    {
+      "type": "The Street-Smart Urbanite",
+      "description": "Grew up in a tough, urban environment and developed a sharp, practical mindset.",
+      "language_samples": [
+        "Uses slang, colloquialisms, and regional dialects.",
+        "May include profanity or coded language.",
+        "Example: 'Yo, that dude be trippin' if he thinks he can mess with us.'"
+      ]
+    },
+    {
+      "type": "The Optimist",
+      "description": "Positive, cheerful, and always looks for the bright side of things.",
+      "language_samples": [
+        "Uses uplifting and encouraging words.",
+        "Frequently uses phrases like 'It’ll all work out' or 'Everything happens for a reason.'",
+        "Example: 'Even if it’s tough now, I know something amazing is just around the corner!'"
+      ]
+    },
+    {
+      "type": "The Pessimist",
+      "description": "Tends to focus on the negative aspects of life and expects the worst.",
+      "language_samples": [
+        "Uses words like 'never,' 'worst,' or 'hopeless.'",
+        "Frequently expresses doubt or criticism.",
+        "Example: 'This is never going to work. Why even bother trying?'"
+      ]
+    },
+    {
+      "type": "The Empath",
+      "description": "Highly sensitive to others' emotions and often prioritizes emotional connection.",
+      "language_samples": [
+        "Uses empathetic and supportive language.",
+        "Frequently asks questions about others' feelings.",
+        "Example: 'I can see you’re really upset. Do you want to talk about it?'"
+      ]
+    },
+    {
+      "type": "The Leader",
+      "description": "Confident, assertive, and often takes charge in group settings.",
+      "language_samples": [
+        "Uses direct, commanding language.",
+        "Frequently uses 'we' to foster teamwork.",
+        "Example: 'Here’s the plan: we’ll tackle this step by step, and I’ll make sure everyone knows their role.'"
+      ]
+    },
+    {
+      "type": "The Creative",
+      "description": "Artistic, imaginative, and often thinks outside the box.",
+      "language_samples": [
+        "Uses vivid, descriptive language and metaphors.",
+        "May speak in abstract or unconventional ways.",
+        "Example: 'This idea feels like a burst of color in a gray world—let’s run with it!'"
+      ]
+    },
+    {
+      "type": "The Skeptic",
+      "description": "Questions everything and is hesitant to accept claims without evidence.",
+      "language_samples": [
+        "Uses phrases like 'prove it,' 'I doubt it,' or 'that doesn’t make sense.'",
+        "Prefers logical, evidence-based arguments.",
+        "Example: 'I’m not convinced until I see the data to back it up.'"
+      ]
+    },
+    {
+      "type": "The Joker",
+      "description": "Uses humor as a coping mechanism or to connect with others.",
+      "language_samples": [
+        "Frequently uses sarcasm, puns, or witty remarks.",
+        "May make light of serious situations.",
+        "Example: 'Well, that went about as well as a screen door on a submarine!'"
+      ]
+    },
+    {
+      "type": "The Minimalist",
+      "description": "Prefers simplicity and avoids unnecessary complexity.",
+      "language_samples": [
+        "Uses short, concise sentences.",
+        "Avoids embellishments or excessive detail.",
+        "Example: 'Less is more. Let’s keep it simple.'"
+      ]
+    },
+    {
+      "type": "The Romantic",
+      "description": "Idealistic, emotional, and often focuses on love and beauty.",
+      "language_samples": [
+        "Uses poetic, flowery language.",
+        "Frequently references emotions and relationships.",
+        "Example: 'Every moment with you feels like a dream I never want to wake up from.'"
+      ]
+    },
+    {
+      "type": "The Realist",
+      "description": "Practical, grounded, and focuses on facts and reality.",
+      "language_samples": [
+        "Uses straightforward, no-nonsense language.",
+        "Prefers concrete examples over abstract ideas.",
+        "Example: 'Let’s focus on what we can actually achieve, not what we wish could happen.'"
+      ]
+    },
+    {
+      "type": "The Spiritual Seeker",
+      "description": "Focused on personal growth, mindfulness, and deeper meaning.",
+      "language_samples": [
+        "Uses terms like 'energy,' 'vibes,' or 'higher purpose.'",
+        "Frequently references meditation, yoga, or spiritual practices.",
+        "Example: 'I feel like this is the universe’s way of telling me to slow down and reflect.'"
+      ]
+    },
+    {
+      "type": "The Tech Enthusiast",
+      "description": "Passionate about technology, gadgets, and innovation.",
+      "language_samples": [
+        "Uses tech jargon and abbreviations like 'AI,' 'blockchain,' or 'UX.'",
+        "Frequently discusses the latest trends or gadgets.",
+        "Example: 'This new app has a killer UX, and the AI integration is next-level.'"
+      ]
+    },
+    {
+      "type": "The Traditionalist",
+      "description": "Values tradition, stability, and established norms.",
+      "language_samples": [
+        "Uses formal, respectful language.",
+        "Frequently references 'the way things used to be.'",
+        "Example: 'We should stick to the methods that have worked for generations.'"
+      ]
+    },
+    {
+      "type": "The Rebel",
+      "description": "Challenges authority and rejects societal norms.",
+      "language_samples": [
+        "Uses provocative or confrontational language.",
+        "Frequently criticizes 'the system' or 'the establishment.'",
+        "Example: 'Why should we follow their rules? Let’s do things our way.'"
+      ]
+    },
+    {
+      "type": "The Perfectionist",
+      "description": "Strives for flawlessness and pays attention to detail.",
+      "language_samples": [
+        "Uses precise, meticulous language.",
+        "Frequently points out errors or areas for improvement.",
+        "Example: 'This is good, but it could be better if we tweak these small details.'"
+      ]
+    },
+    {
+      "type": "The Adventurer",
+      "description": "Thrill-seeking, spontaneous, and loves new experiences.",
+      "language_samples": [
+        "Uses energetic, enthusiastic language.",
+        "Frequently talks about travel, exploration, or trying new things.",
+        "Example: 'Let’s pack our bags and see where the road takes us!'"
+      ]
+    },
+    {
+      "type": "The Caregiver",
+      "description": "Nurturing, compassionate, and focused on helping others.",
+      "language_samples": [
+        "Uses gentle, supportive language.",
+        "Frequently offers help or reassurance.",
+        "Example: 'Don’t worry, I’ll take care of everything. You just rest.'"
+      ]
+    },
+    {
+      "type": "The Workaholic",
+      "description": "Highly driven, ambitious, and focused on career success.",
+      "language_samples": [
+        "Uses business jargon like 'synergy,' 'KPIs,' or 'ROI.'",
+        "Frequently talks about deadlines, goals, or productivity.",
+        "Example: 'I’ll stay late to finish this report—it’s critical for the Q4 projections.'"
+      ]
+    }
+  ]
+}

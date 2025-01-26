@@ -1,0 +1,129 @@
+{
+  "suggestion_types": [
+    {
+      "type": "Direct Suggestion",
+      "description": "Explicit instructions or statements that influence behavior or thoughts.",
+      "example": "A hypnotist telling a subject, 'You are feeling very sleepy,' and the subject begins to yawn."
+    },
+    {
+      "type": "Indirect Suggestion",
+      "description": "Subtle or implied cues that influence behavior without explicit instruction.",
+      "example": "A teacher saying, 'Some students find this topic very easy,' which motivates students to try harder."
+    },
+    {
+      "type": "Autosuggestion",
+      "description": "Self-directed suggestions that influence one's own thoughts or behaviors.",
+      "example": "Repeating affirmations like, 'I am confident and capable,' to boost self-esteem."
+    },
+    {
+      "type": "Positive Suggestion",
+      "description": "Suggestions that encourage beneficial or constructive outcomes.",
+      "example": "A doctor saying, 'This medication works very well for most patients,' to enhance the placebo effect."
+    },
+    {
+      "type": "Negative Suggestion",
+      "description": "Suggestions that create doubt, fear, or undesirable outcomes.",
+      "example": "A parent saying, 'You’ll never be good at math,' which may discourage a child from trying."
+    },
+    {
+      "type": "Social Suggestion",
+      "description": "Influence from group behavior or societal norms.",
+      "example": "Laughing at a joke because everyone else is laughing, even if you didn’t find it funny."
+    },
+    {
+      "type": "Priming",
+      "description": "Exposure to a stimulus that influences a response to a later stimulus.",
+      "example": "Seeing the word 'yellow' before being asked to name a fruit, which increases the likelihood of saying 'banana.'"
+    },
+    {
+      "type": "Placebo Effect",
+      "description": "Experiencing a beneficial effect due to the belief that a treatment works, even if it’s inert.",
+      "example": "Feeling pain relief after taking a sugar pill because you believe it’s a painkiller."
+    },
+    {
+      "type": "Nocebo Effect",
+      "description": "Experiencing negative effects due to the belief that something is harmful.",
+      "example": "Feeling nauseous after taking a placebo pill because you were told it might cause nausea."
+    },
+    {
+      "type": "Anchoring",
+      "description": "Relying too heavily on the first piece of information offered (the 'anchor') when making decisions.",
+      "example": "A store listing a high original price next to a sale price to make the discount seem more significant."
+    },
+    {
+      "type": "Framing Effect",
+      "description": "Influencing decisions by how information is presented.",
+      "example": "Describing a glass as 'half full' instead of 'half empty' to create a more positive perception."
+    },
+    {
+      "type": "Authority Suggestion",
+      "description": "Influence from someone perceived as an authority figure.",
+      "example": "A doctor recommending a specific treatment, and the patient accepting it without question."
+    },
+    {
+      "type": "Peer Suggestion",
+      "description": "Influence from peers or people in the same social group.",
+      "example": "Teenagers trying a new trend because their friends are doing it."
+    },
+    {
+      "type": "Visual Suggestion",
+      "description": "Influence from visual cues or imagery.",
+      "example": "A restaurant using pictures of delicious food on the menu to make dishes more appealing."
+    },
+    {
+      "type": "Verbal Suggestion",
+      "description": "Influence from spoken words or tone of voice.",
+      "example": "A coach saying, 'You’ve got this!' to motivate an athlete before a race."
+    },
+    {
+      "type": "Environmental Suggestion",
+      "description": "Influence from the surrounding environment or context.",
+      "example": "Feeling relaxed in a spa because of calming music, dim lighting, and soothing scents."
+    },
+    {
+      "type": "Cultural Suggestion",
+      "description": "Influence from cultural norms, values, or traditions.",
+      "example": "Feeling obligated to tip at a restaurant because it’s a cultural norm in your country."
+    },
+    {
+      "type": "Implicit Suggestion",
+      "description": "Subtle, unconscious cues that influence behavior or thoughts.",
+      "example": "A teacher smiling and nodding while a student speaks, encouraging them to continue."
+    },
+    {
+      "type": "Conditioned Suggestion",
+      "description": "Influence from learned associations or conditioning.",
+      "example": "Feeling hungry when you hear a fast-food jingle because you associate it with food."
+    },
+    {
+      "type": "Emotional Suggestion",
+      "description": "Influence from emotional cues or appeals.",
+      "example": "A charity ad showing sad images of animals to encourage donations."
+    },
+    {
+      "type": "Repetition Suggestion",
+      "description": "Influence from repeated exposure to a message or idea.",
+      "example": "A slogan repeated in an advertisement until it becomes memorable and persuasive."
+    },
+    {
+      "type": "Expectation Suggestion",
+      "description": "Influence from what someone expects to happen.",
+      "example": "Feeling more pain after surgery because you were told it would be very painful."
+    },
+    {
+      "type": "Symbolic Suggestion",
+      "description": "Influence from symbols or metaphors.",
+      "example": "A brand using a lion in its logo to suggest strength and courage."
+    },
+    {
+      "type": "Behavioral Suggestion",
+      "description": "Influence from observing others' behaviors.",
+      "example": "Starting to yawn after seeing someone else yawn."
+    },
+    {
+      "type": "Subliminal Suggestion",
+      "description": "Influence from stimuli below the threshold of conscious awareness.",
+      "example": "A movie theater flashing a split-second image of popcorn to increase sales."
+    }
+  ]
+}

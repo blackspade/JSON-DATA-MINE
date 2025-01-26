@@ -1,0 +1,169 @@
+{
+  "minerals": [
+    {
+      "name": "Quartz",
+      "chemical_formula": "SiO₂",
+      "typical_locations": ["Brazil", "USA (Arkansas)", "Switzerland", "Madagascar"],
+      "description": "A hard, crystalline mineral composed of silicon and oxygen. It comes in many varieties, including amethyst, citrine, and rose quartz.",
+      "practical_purposes": [
+        "Used in electronics as a piezoelectric material.",
+        "Essential in glass manufacturing.",
+        "Used in watches and clocks for its oscillatory properties."
+      ]
+    },
+    {
+      "name": "Diamond",
+      "chemical_formula": "C",
+      "typical_locations": ["South Africa", "Russia", "Botswana", "Australia"],
+      "description": "A form of pure carbon with a cubic crystal structure, known for its exceptional hardness and brilliance.",
+      "practical_purposes": [
+        "Industrial cutting, grinding, and drilling tools.",
+        "Gemstones in jewelry.",
+        "Used in high-pressure scientific experiments."
+      ]
+    },
+    {
+      "name": "Gold",
+      "chemical_formula": "Au",
+      "typical_locations": ["South Africa", "USA (Nevada)", "Australia", "China"],
+      "description": "A precious metal known for its lustrous yellow color, malleability, and resistance to corrosion.",
+      "practical_purposes": [
+        "Used in jewelry and currency.",
+        "Conductive material in electronics.",
+        "Medical applications, such as in dentistry and cancer treatment."
+      ]
+    },
+    {
+      "name": "Calcite",
+      "chemical_formula": "CaCO₃",
+      "typical_locations": ["Mexico", "USA (Mississippi)", "Iceland", "China"],
+      "description": "A carbonate mineral that is a major component of limestone and marble. It exhibits double refraction.",
+      "practical_purposes": [
+        "Used in construction materials like cement and concrete.",
+        "Neutralizes acidic soils in agriculture.",
+        "Optical applications due to its birefringence."
+      ]
+    },
+    {
+      "name": "Halite",
+      "chemical_formula": "NaCl",
+      "typical_locations": ["USA (Kansas)", "Poland", "Germany", "Pakistan"],
+      "description": "Commonly known as rock salt, it forms isometric crystals and is essential for human life.",
+      "practical_purposes": [
+        "Used as table salt and food preservative.",
+        "De-icing roads in winter.",
+        "Raw material in chemical industries."
+      ]
+    },
+    {
+      "name": "Graphite",
+      "chemical_formula": "C",
+      "typical_locations": ["China", "India", "Brazil", "Canada"],
+      "description": "A soft, layered form of carbon with a hexagonal crystal structure. It is a good conductor of electricity.",
+      "practical_purposes": [
+        "Used in pencils and lubricants.",
+        "Electrodes in batteries.",
+        "Moderator in nuclear reactors."
+      ]
+    },
+    {
+      "name": "Magnetite",
+      "chemical_formula": "Fe₃O₄",
+      "typical_locations": ["Sweden", "USA (Minnesota)", "South Africa", "Russia"],
+      "description": "A magnetic iron oxide mineral that is an important ore of iron.",
+      "practical_purposes": [
+        "Used in steel production.",
+        "Magnetic recording media.",
+        "Biomedical applications, such as drug delivery systems."
+      ]
+    },
+    {
+      "name": "Bauxite",
+      "chemical_formula": "Al(OH)₃ (mixed with other minerals)",
+      "typical_locations": ["Australia", "Guinea", "Brazil", "Jamaica"],
+      "description": "The primary ore of aluminum, it is a mixture of aluminum hydroxides and other minerals.",
+      "practical_purposes": [
+        "Source of aluminum for manufacturing.",
+        "Used in abrasives and refractory materials.",
+        "Production of cement and chemicals."
+      ]
+    },
+    {
+      "name": "Fluorite",
+      "chemical_formula": "CaF₂",
+      "typical_locations": ["China", "Mexico", "South Africa", "USA (Illinois)"],
+      "description": "A colorful mineral that fluoresces under ultraviolet light. It has a cubic crystal structure.",
+      "practical_purposes": [
+        "Used in the production of hydrofluoric acid.",
+        "Optical lenses and prisms.",
+        "Decorative stone in jewelry."
+      ]
+    },
+    {
+      "name": "Gypsum",
+      "chemical_formula": "CaSO₄·2H₂O",
+      "typical_locations": ["USA (Oklahoma)", "Mexico", "Spain", "Iran"],
+      "description": "A soft sulfate mineral that is widely used in construction. It forms as evaporite deposits.",
+      "practical_purposes": [
+        "Primary component of drywall and plaster.",
+        "Soil conditioner in agriculture.",
+        "Sculpting and carving material."
+      ]
+    },
+    {
+      "name": "Talc",
+      "chemical_formula": "Mg₃Si₄O₁₀(OH)₂",
+      "typical_locations": ["USA (Vermont)", "China", "France", "India"],
+      "description": "The softest known mineral, it has a greasy feel and is used in powders and cosmetics.",
+      "practical_purposes": [
+        "Used in talcum powder and cosmetics.",
+        "Filler in paints and ceramics.",
+        "Lubricant in industrial applications."
+      ]
+    },
+    {
+      "name": "Pyrite",
+      "chemical_formula": "FeS₂",
+      "typical_locations": ["Spain", "Peru", "USA (Illinois)", "Italy"],
+      "description": "Known as 'fool's gold,' it is a brassy-yellow mineral with a metallic luster.",
+      "practical_purposes": [
+        "Source of sulfur in sulfuric acid production.",
+        "Used in jewelry as a decorative stone.",
+        "Historical use in early firearms (spark production)."
+      ]
+    },
+    {
+      "name": "Mica",
+      "chemical_formula": "KAl₂(AlSi₃O₁₀)(OH)₂",
+      "typical_locations": ["India", "Brazil", "USA (North Carolina)", "Russia"],
+      "description": "A group of sheet silicate minerals that split into thin, flexible layers.",
+      "practical_purposes": [
+        "Insulator in electrical equipment.",
+        "Used in cosmetics for its shimmering effect.",
+        "Additive in paints and plastics."
+      ]
+    },
+    {
+      "name": "Hematite",
+      "chemical_formula": "Fe₂O₃",
+      "typical_locations": ["Australia", "Brazil", "USA (Minnesota)", "South Africa"],
+      "description": "A common iron oxide mineral with a metallic to earthy luster. It is the primary ore of iron.",
+      "practical_purposes": [
+        "Used in steel production.",
+        "Pigment in paints and cosmetics.",
+        "Jewelry and ornamental stone."
+      ]
+    },
+    {
+      "name": "Sphalerite",
+      "chemical_formula": "ZnS",
+      "typical_locations": ["USA (Missouri)", "Spain", "Mexico", "Australia"],
+      "description": "The primary ore of zinc, it often contains traces of cadmium, gallium, and indium.",
+      "practical_purposes": [
+        "Source of zinc for galvanization and alloys.",
+        "Used in the production of semiconductors.",
+        "Source of rare elements like indium."
+      ]
+    }
+  ]
+}

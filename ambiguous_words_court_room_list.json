@@ -1,0 +1,222 @@
+{
+  "ambiguous_words": [
+    {
+      "word": "charge",
+      "meanings": [
+        {
+          "meaning": "To accuse someone of a crime.",
+          "example": "He was charged with theft."
+        },
+        {
+          "meaning": "An amount of money demanded for a service or product.",
+          "example": "There is a $50 charge for late fees."
+        },
+        {
+          "meaning": "To rush forward in attack.",
+          "example": "The soldiers charged at the enemy."
+        }
+      ],
+      "potential_for_deception": "In a legal context, 'charge' could refer to either an accusation or a financial obligation, leading to confusion."
+    },
+    {
+      "word": "consideration",
+      "meanings": [
+        {
+          "meaning": "Thoughtful attention or regard.",
+          "example": "She gave careful consideration to the proposal."
+        },
+        {
+          "meaning": "Something of value exchanged in a contract.",
+          "example": "The consideration for the agreement was $1,000."
+        }
+      ],
+      "potential_for_deception": "In contract law, 'consideration' has a specific legal meaning that differs from its everyday use."
+    },
+    {
+      "word": "execute",
+      "meanings": [
+        {
+          "meaning": "To carry out or accomplish a task.",
+          "example": "The team executed the plan flawlessly."
+        },
+        {
+          "meaning": "To sign or complete a legal document.",
+          "example": "Please execute the contract by signing here."
+        },
+        {
+          "meaning": "To put someone to death as a legal penalty.",
+          "example": "The prisoner was executed at dawn."
+        }
+      ],
+      "potential_for_deception": "In legal documents, 'execute' could refer to signing a contract or carrying out a death sentence, leading to severe misunderstandings."
+    },
+    {
+      "word": "interest",
+      "meanings": [
+        {
+          "meaning": "A feeling of curiosity or concern.",
+          "example": "She has a keen interest in art."
+        },
+        {
+          "meaning": "A financial charge for borrowing money.",
+          "example": "The loan has a 5% annual interest rate."
+        },
+        {
+          "meaning": "A legal right or claim to property.",
+          "example": "He has an interest in the estate."
+        }
+      ],
+      "potential_for_deception": "In financial or legal contexts, 'interest' could refer to either a monetary charge or a legal claim, causing confusion."
+    },
+    {
+      "word": "party",
+      "meanings": [
+        {
+          "meaning": "A social gathering.",
+          "example": "We’re hosting a party this weekend."
+        },
+        {
+          "meaning": "A person or group involved in a legal agreement or dispute.",
+          "example": "Both parties signed the contract."
+        }
+      ],
+      "potential_for_deception": "In legal documents, 'party' refers to a participant in a contract or lawsuit, not a social event."
+    },
+    {
+      "word": "right",
+      "meanings": [
+        {
+          "meaning": "A moral or legal entitlement.",
+          "example": "You have the right to remain silent."
+        },
+        {
+          "meaning": "The opposite of left.",
+          "example": "Turn right at the next intersection."
+        },
+        {
+          "meaning": "Correct or true.",
+          "example": "You’re right about that."
+        }
+      ],
+      "potential_for_deception": "In legal contexts, 'right' could refer to an entitlement, while in everyday language, it could mean direction or correctness."
+    },
+    {
+      "word": "will",
+      "meanings": [
+        {
+          "meaning": "A legal document outlining the distribution of assets after death.",
+          "example": "She updated her will last year."
+        },
+        {
+          "meaning": "Determination or desire.",
+          "example": "He has a strong will to succeed."
+        },
+        {
+          "meaning": "Future tense auxiliary verb.",
+          "example": "I will call you tomorrow."
+        }
+      ],
+      "potential_for_deception": "In legal contexts, 'will' refers to a testamentary document, while in everyday language, it can mean determination or future intent."
+    },
+    {
+      "word": "title",
+      "meanings": [
+        {
+          "meaning": "The name of a book, movie, or other work.",
+          "example": "The title of the book is '1984.'"
+        },
+        {
+          "meaning": "Legal ownership of property.",
+          "example": "She holds the title to the house."
+        },
+        {
+          "meaning": "A rank or position.",
+          "example": "He was given the title of CEO."
+        }
+      ],
+      "potential_for_deception": "In legal contexts, 'title' refers to ownership, while in everyday language, it can mean a name or rank."
+    },
+    {
+      "word": "consider",
+      "meanings": [
+        {
+          "meaning": "To think carefully about something.",
+          "example": "Please consider all your options."
+        },
+        {
+          "meaning": "To regard someone or something in a specified way.",
+          "example": "She is considered an expert in her field."
+        },
+        {
+          "meaning": "To take into account.",
+          "example": "The court must consider the evidence."
+        }
+      ],
+      "potential_for_deception": "In legal contexts, 'consider' often means to take into account formally, while in everyday language, it can mean to think about something."
+    },
+    {
+      "word": "issue",
+      "meanings": [
+        {
+          "meaning": "A problem or topic of discussion.",
+          "example": "The main issue is the lack of funding."
+        },
+        {
+          "meaning": "To distribute or release something.",
+          "example": "The company will issue a statement tomorrow."
+        },
+        {
+          "meaning": "Legal offspring.",
+          "example": "He left his estate to his issue."
+        }
+      ],
+      "potential_for_deception": "In legal contexts, 'issue' can refer to descendants, while in everyday language, it usually means a problem or topic."
+    },
+    {
+      "word": "instrument",
+      "meanings": [
+        {
+          "meaning": "A tool or device.",
+          "example": "The surgeon used a precise instrument."
+        },
+        {
+          "meaning": "A legal document.",
+          "example": "The contract is a binding legal instrument."
+        },
+        {
+          "meaning": "A musical device.",
+          "example": "She plays the violin and other instruments."
+        }
+      ],
+      "potential_for_deception": "In legal contexts, 'instrument' refers to a formal document, while in everyday language, it can mean a tool or musical device."
+    },
+    {
+      "word": "action",
+      "meanings": [
+        {
+          "meaning": "A legal proceeding.",
+          "example": "The plaintiff filed an action against the defendant."
+        },
+        {
+          "meaning": "Something done to achieve a result.",
+          "example": "We need to take action to solve this problem."
+        }
+      ],
+      "potential_for_deception": "In legal contexts, 'action' refers to a lawsuit, while in everyday language, it means taking steps to achieve something."
+    },
+    {
+      "word": "damages",
+      "meanings": [
+        {
+          "meaning": "Compensation awarded in a legal case.",
+          "example": "The court awarded $10,000 in damages."
+        },
+        {
+          "meaning": "Harm or injury.",
+          "example": "The storm caused significant damages to the property."
+        }
+      ],
+      "potential_for_deception": "In legal contexts, 'damages' refers to monetary compensation, while in everyday language, it can mean physical harm."
+    }
+  ]
+}
