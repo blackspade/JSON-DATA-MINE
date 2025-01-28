@@ -1,0 +1,214 @@
+{
+  "scenarios": [
+    {
+      "category": "Communication-Related Scenarios",
+      "examples": [
+        {
+          "scenario": "Dismissive Responses",
+          "response": "Stay calm and express how you feel without blame. Example: 'I feel unheard when my thoughts are brushed off. Can we talk about this more in-depth?'"
+        },
+        {
+          "scenario": "Interrupting or Talking Over",
+          "response": "Pause and politely address the behavior. Example: 'I’d like to finish my thought. Can we take turns sharing our perspectives?'"
+        },
+        {
+          "scenario": "Ignoring His Input",
+          "response": "Acknowledge the oversight and request consideration. Example: 'I noticed my input wasn’t considered. Can we revisit this together?'"
+        },
+        {
+          "scenario": "Sarcasm or Mockery",
+          "response": "Address the tone calmly. Example: 'I feel disrespected when my ideas are mocked. Can we keep the conversation constructive?'"
+        },
+        {
+          "scenario": "Public Criticism",
+          "response": "Address the issue privately later. Example: 'I felt embarrassed when I was criticized in front of others. Can we discuss things like this privately?'"
+        }
+      ]
+    },
+    {
+      "category": "Behavior in Social Settings",
+      "examples": [
+        {
+          "scenario": "Flirting with Others",
+          "response": "Express your feelings calmly and set boundaries. Example: 'I feel uncomfortable when you flirt with others. Can we talk about what’s appropriate for us?'"
+        },
+        {
+          "scenario": "Excluding Him",
+          "response": "Politely ask to be included. Example: 'I felt left out during the conversation. Can we make sure we’re both included next time?'"
+        },
+        {
+          "scenario": "Comparing Him to Others",
+          "response": "Address the comparison directly. Example: 'I feel hurt when I’m compared to others. Can we focus on what I’m doing well instead?'"
+        },
+        {
+          "scenario": "Disregarding His Boundaries",
+          "response": "Reassert your boundaries firmly but kindly. Example: 'I’m not comfortable with this. Let’s find a way to respect each other’s boundaries.'"
+        }
+      ]
+    },
+    {
+      "category": "Lack of Appreciation or Recognition",
+      "examples": [
+        {
+          "scenario": "Taking Him for Granted",
+          "response": "Express your need for acknowledgment. Example: 'I feel unappreciated when my efforts go unnoticed. Can we make sure we both feel valued?'"
+        },
+        {
+          "scenario": "Ignoring His Achievements",
+          "response": "Share your accomplishments and ask for support. Example: 'I worked hard on this and would love your support in celebrating it.'"
+        },
+        {
+          "scenario": "Criticizing His Efforts",
+          "response": "Request constructive feedback. Example: 'I put a lot of effort into this. Can you share what you liked before we discuss improvements?'"
+        }
+      ]
+    },
+    {
+      "category": "Disrespecting His Time or Priorities",
+      "examples": [
+        {
+          "scenario": "Being Chronically Late",
+          "response": "Set expectations clearly. Example: 'I value punctuality. Can we agree to be on time for each other?'"
+        },
+        {
+          "scenario": "Canceling Plans Last Minute",
+          "response": "Express your disappointment calmly. Example: 'I was looking forward to our plans. Can we reschedule and commit to it?'"
+        },
+        {
+          "scenario": "Ignoring His Needs",
+          "response": "Communicate your needs clearly. Example: 'I feel like my needs aren’t being considered. Can we find a balance that works for both of us?'"
+        }
+      ]
+    },
+    {
+      "category": "Disrespect in Relationships",
+      "examples": [
+        {
+          "scenario": "Undermining His Authority as a Parent",
+          "response": "Discuss parenting approaches privately. Example: 'I feel undermined when we disagree in front of the kids. Can we discuss parenting decisions privately?'"
+        },
+        {
+          "scenario": "Invading His Privacy",
+          "response": "Reassert your need for privacy. Example: 'I value my privacy and trust. Can we agree to respect each other’s personal space?'"
+        },
+        {
+          "scenario": "Withholding Affection or Attention",
+          "response": "Address the behavior calmly. Example: 'I feel disconnected when affection is withheld. Can we talk about what’s going on?'"
+        },
+        {
+          "scenario": "Breaking Promises",
+          "response": "Express the importance of trust. Example: 'I feel let down when promises are broken. Can we work on keeping our commitments to each other?'"
+        }
+      ]
+    },
+    {
+      "category": "Financial Disrespect",
+      "examples": [
+        {
+          "scenario": "Spending Without Consultation",
+          "response": "Discuss financial boundaries. Example: 'I feel concerned when large purchases are made without discussion. Can we agree on a budget together?'"
+        },
+        {
+          "scenario": "Criticizing His Financial Contributions",
+          "response": "Acknowledge your efforts and request respect. Example: 'I’m doing my best to contribute financially. Can we focus on supporting each other instead of criticizing?'"
+        }
+      ]
+    },
+    {
+      "category": "Disrespecting His Values or Beliefs",
+      "examples": [
+        {
+          "scenario": "Mocking His Interests",
+          "response": "Ask for respect for your passions. Example: 'My interests are important to me. Can we respect each other’s hobbies?'"
+        },
+        {
+          "scenario": "Disregarding His Opinions",
+          "response": "Request mutual respect in discussions. Example: 'I feel dismissed when my opinions aren’t considered. Can we listen to each other more openly?'"
+        },
+        {
+          "scenario": "Challenging His Core Values",
+          "response": "Stand firm but respectful. Example: 'These values are important to me. Can we agree to respect each other’s beliefs even if we disagree?'"
+        }
+      ]
+    },
+    {
+      "category": "Public or Private Humiliation",
+      "examples": [
+        {
+          "scenario": "Embarrassing Him in Public",
+          "response": "Address the issue privately. Example: 'I felt humiliated when that happened in public. Can we keep sensitive topics between us?'"
+        },
+        {
+          "scenario": "Making Jokes at His Expense",
+          "response": "Set boundaries with humor. Example: 'I don’t mind jokes, but that one felt hurtful. Can we keep humor kind and respectful?'"
+        },
+        {
+          "scenario": "Gaslighting",
+          "response": "Stay grounded and assertive. Example: 'I feel like my feelings are being dismissed. Can we address this issue honestly?'"
+        }
+      ]
+    },
+    {
+      "category": "Disrespecting His Role in the Relationship",
+      "examples": [
+        {
+          "scenario": "Making Decisions Unilaterally",
+          "response": "Request collaboration. Example: 'I feel left out when decisions are made without me. Can we make big decisions together?'"
+        },
+        {
+          "scenario": "Ignoring His Emotional Needs",
+          "response": "Express your need for support. Example: 'I’m going through a tough time and need your support. Can we talk about how we can be there for each other?'"
+        },
+        {
+          "scenario": "Disrespecting His Family or Friends",
+          "response": "Ask for mutual respect. Example: 'My family and friends are important to me. Can we treat each other’s loved ones with respect?'"
+        }
+      ]
+    },
+    {
+      "category": "Physical or Emotional Disrespect",
+      "examples": [
+        {
+          "scenario": "Physical Aggression",
+          "response": "Set a firm boundary. Example: 'I don’t feel safe when things get physical. Let’s find a healthier way to handle disagreements.'"
+        },
+        {
+          "scenario": "Emotional Manipulation",
+          "response": "Call out the behavior calmly. Example: 'I feel manipulated when guilt is used. Can we communicate openly instead?'"
+        },
+        {
+          "scenario": "Invalidating His Feelings",
+          "response": "Assert the importance of your emotions. Example: 'My feelings are valid, and I’d appreciate it if we could acknowledge them.'"
+        }
+      ]
+    },
+    {
+      "category": "Disrespecting His Efforts to Improve",
+      "examples": [
+        {
+          "scenario": "Ignoring Positive Changes",
+          "response": "Ask for acknowledgment. Example: 'I’ve been working hard to improve. Can we celebrate progress together?'"
+        },
+        {
+          "scenario": "Focusing Only on Negatives",
+          "response": "Request balanced feedback. Example: 'I feel discouraged when only negatives are highlighted. Can we also focus on what’s going well?'"
+        }
+      ]
+    },
+    {
+      "category": "Disrespecting His Independence",
+      "examples": [
+        {
+          "scenario": "Being Overly Controlling",
+          "response": "Assert your need for autonomy. Example: 'I value my independence. Can we trust each other to make our own choices?'"
+        },
+        {
+          "scenario": "Not Trusting Him",
+          "response": "Address the lack of trust directly. Example: 'I feel hurt when I’m not trusted. Can we talk about what’s causing this and rebuild trust?'"
+        }
+      ]
+    }
+  ],
+  "note": "While these scenarios highlight behaviors that men might find disrespectful, it’s important to remember that respect is a two-way street. Open communication, empathy, and mutual understanding are key to addressing and resolving these issues in any relationship. If a pattern of disrespect persists, it may be helpful to seek counseling or have a candid conversation to rebuild trust and respect.",
+  "Application_Example":"https://craigsportal.com/tools/man.php"
+}
