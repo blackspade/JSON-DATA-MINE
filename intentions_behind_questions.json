@@ -1,0 +1,94 @@
+{
+  "intentions": [
+    {
+      "scenario": "Everyday Interaction",
+      "intention": "Sincere Query",
+      "description": "The person asking the question genuinely seeks information or help.",
+      "counter_prompt": "Can you clarify why you need this information? I want to ensure I provide the most useful response."
+    },
+    {
+      "scenario": "Everyday Interaction",
+      "intention": "Small Talk",
+      "description": "The question is asked to initiate or maintain a casual conversation, not necessarily to gain specific information.",
+      "counter_prompt": "Are you asking just to chat, or is there something specific you're interested in?"
+    },
+    {
+      "scenario": "Everyday Interaction",
+      "intention": "Testing Knowledge",
+      "description": "The question is designed to assess the respondent's knowledge or expertise on a topic.",
+      "counter_prompt": "Are you asking to test my knowledge, or do you need detailed information on this topic?"
+    },
+    {
+      "scenario": "Courtroom",
+      "intention": "Cross-Examination",
+      "description": "The question is intended to challenge the credibility or consistency of a witness's testimony.",
+      "counter_prompt": "Is this question aimed at clarifying my previous statement, or are you questioning its validity?"
+    },
+    {
+      "scenario": "Courtroom",
+      "intention": "Leading Question",
+      "description": "The question is phrased in a way that suggests a particular answer or leads the respondent toward a specific response.",
+      "counter_prompt": "Is this question designed to guide me toward a specific answer, or are you open to any response?"
+    },
+    {
+      "scenario": "Courtroom",
+      "intention": "Clarification",
+      "description": "The question seeks to clarify a point of confusion or ambiguity in previous statements.",
+      "counter_prompt": "Are you asking this to better understand my previous statement, or is there another reason?"
+    },
+    {
+      "scenario": "Relationships",
+      "intention": "Seeking Reassurance",
+      "description": "The question is asked to gain emotional reassurance or validation from the respondent.",
+      "counter_prompt": "Are you asking because you need reassurance, or is there something specific on your mind?"
+    },
+    {
+      "scenario": "Relationships",
+      "intention": "Testing Commitment",
+      "description": "The question is designed to gauge the level of commitment or loyalty of the respondent.",
+      "counter_prompt": "Are you asking to understand my commitment, or is there a concern you'd like to discuss?"
+    },
+    {
+      "scenario": "Relationships",
+      "intention": "Manipulation",
+      "description": "The question is asked with the intent to manipulate or control the respondent's behavior or emotions.",
+      "counter_prompt": "Is there a specific outcome you're hoping for with this question, or are you just curious?"
+    },
+    {
+      "scenario": "Professional Setting",
+      "intention": "Gathering Information",
+      "description": "The question is asked to collect data or insights for decision-making or analysis.",
+      "counter_prompt": "Is this information for a specific project or decision, or is it more general?"
+    },
+    {
+      "scenario": "Professional Setting",
+      "intention": "Evaluating Performance",
+      "description": "The question is intended to assess the performance or capabilities of an individual or team.",
+      "counter_prompt": "Are you asking to evaluate my performance, or is this part of a broader assessment?"
+    },
+    {
+      "scenario": "Professional Setting",
+      "intention": "Building Rapport",
+      "description": "The question is asked to establish or strengthen a professional relationship.",
+      "counter_prompt": "Are you asking to get to know me better, or is there a professional context to this question?"
+    },
+    {
+      "scenario": "Educational Setting",
+      "intention": "Encouraging Critical Thinking",
+      "description": "The question is designed to stimulate deeper thought or analysis from the respondent.",
+      "counter_prompt": "Is this question meant to make me think critically, or are you looking for a straightforward answer?"
+    },
+    {
+      "scenario": "Educational Setting",
+      "intention": "Assessing Understanding",
+      "description": "The question is asked to determine whether the respondent has grasped a concept or lesson.",
+      "counter_prompt": "Are you asking to check if I understand the material, or is there a specific point you want to discuss?"
+    },
+    {
+      "scenario": "Educational Setting",
+      "intention": "Encouraging Participation",
+      "description": "The question is intended to engage the respondent and encourage active participation in a discussion.",
+      "counter_prompt": "Are you asking to get me involved in the discussion, or is there a specific answer you're looking for?"
+    }
+  ]
+}

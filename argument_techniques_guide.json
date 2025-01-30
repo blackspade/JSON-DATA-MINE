@@ -1,0 +1,164 @@
+{
+  "argument_techniques": [
+    {
+      "technique": "Straw Man",
+      "description": "Misrepresenting an opponent's argument to make it easier to attack.",
+      "ethical": false,
+      "example": "Person A: We should reduce military spending. Person B: So you want to leave our country defenseless against enemies?",
+      "problem": "It distorts the original argument, making it easier to attack a weaker version rather than addressing the actual point.",
+      "counter_response": "Clarify the original argument: 'I didn't say we should leave the country defenseless. I said we should reallocate funds to more pressing needs like education and healthcare.'"
+    },
+    {
+      "technique": "Ad Hominem",
+      "description": "Attacking the person instead of their argument.",
+      "ethical": false,
+      "example": "Person A: We need to address climate change. Person B: You don't even recycle, so why should anyone listen to you?",
+      "problem": "It diverts attention from the argument to the person, which is irrelevant to the validity of the argument.",
+      "counter_response": "Refocus on the argument: 'Whether I recycle or not doesn't change the fact that climate change is a serious issue. Let's stay on topic.'"
+    },
+    {
+      "technique": "False Dilemma",
+      "description": "Presenting only two options when more exist.",
+      "ethical": false,
+      "example": "Either you support this war, or you are unpatriotic.",
+      "problem": "It oversimplifies complex issues by ignoring other viable options.",
+      "counter_response": "Introduce nuance: 'There are more than two options. I can oppose this war and still love my country by advocating for diplomatic solutions.'"
+    },
+    {
+      "technique": "Appeal to Authority",
+      "description": "Using an authority figure's opinion as evidence, even if they are not a credible source on the topic.",
+      "ethical": false,
+      "example": "A famous actor says this diet works, so it must be true.",
+      "problem": "Authority figures may lack expertise in the subject, making their opinion unreliable.",
+      "counter_response": "Question the authority's expertise: 'Is the actor a nutritionist or scientist? Let's look at evidence from qualified experts instead.'"
+    },
+    {
+      "technique": "Slippery Slope",
+      "description": "Suggesting that a minor action will lead to significant and often negative consequences.",
+      "ethical": false,
+      "example": "If we allow students to redo this test, soon they'll expect to redo every assignment, and education will collapse.",
+      "problem": "It assumes a chain reaction without evidence that each step will inevitably occur.",
+      "counter_response": "Challenge the assumption: 'There's no evidence that allowing one retake will lead to systemic collapse. Let's focus on the benefits of giving students a second chance.'"
+    },
+    {
+      "technique": "Circular Reasoning",
+      "description": "Using the conclusion as a premise without proper justification.",
+      "ethical": false,
+      "example": "The Bible is true because it says so.",
+      "problem": "It fails to provide any real evidence, making the argument logically invalid.",
+      "counter_response": "Point out the circularity: 'You're using the Bible's truthfulness to prove its truthfulness. Can you provide independent evidence?'"
+    },
+    {
+      "technique": "Red Herring",
+      "description": "Introducing an irrelevant topic to divert attention from the original issue.",
+      "ethical": false,
+      "example": "Person A: The government should invest more in education. Person B: But what about the rising crime rates? We should focus on that instead.",
+      "problem": "It distracts from the original issue without addressing it.",
+      "counter_response": "Refocus the discussion: 'Crime rates are important, but right now we're discussing education. Let's stay on topic.'"
+    },
+    {
+      "technique": "Appeal to Emotion",
+      "description": "Using emotional manipulation rather than logical reasoning.",
+      "ethical": false,
+      "example": "If you cared about children, you would support this policy.",
+      "problem": "It manipulates emotions to bypass rational discussion.",
+      "counter_response": "Shift to logic: 'I do care about children, but let's evaluate whether this policy is actually effective in helping them.'"
+    },
+    {
+      "technique": "Begging the Question",
+      "description": "Assuming the conclusion within the premise.",
+      "ethical": false,
+      "example": "Cheating is wrong because it is unethical.",
+      "problem": "It provides no real justification, as the premise and conclusion are the same.",
+      "counter_response": "Demand evidence: 'You're assuming cheating is unethical without explaining why. Can you provide a reason?'"
+    },
+    {
+      "technique": "False Cause",
+      "description": "Assuming a cause-and-effect relationship without evidence.",
+      "ethical": false,
+      "example": "I wore my lucky socks, and we won the game. Therefore, my socks caused the victory.",
+      "problem": "It confuses correlation with causation.",
+      "counter_response": "Identify the fallacy: 'Just because two events happened together doesn't mean one caused the other. Let's look at actual factors that contributed to the win.'"
+    },
+    {
+      "technique": "Bandwagon",
+      "description": "Arguing that something is true or good because many people believe or do it.",
+      "ethical": false,
+      "example": "Everyone is buying this product, so it must be the best.",
+      "problem": "Popularity does not equate to quality or truth.",
+      "counter_response": "Challenge the assumption: 'Just because it's popular doesn't mean it's the best. Let's evaluate its merits objectively.'"
+    },
+    {
+      "technique": "Appeal to Tradition",
+      "description": "Arguing that something is better or correct because it has always been done that way.",
+      "ethical": false,
+      "example": "We should keep this policy because it's been in place for decades.",
+      "problem": "It assumes tradition is inherently valid without questioning its relevance or effectiveness.",
+      "counter_response": "Question tradition: 'Just because something has been done for a long time doesn't mean it's the best approach. Let's evaluate its current effectiveness.'"
+    },
+    {
+      "technique": "Hasty Generalization",
+      "description": "Making a broad conclusion based on a small or unrepresentative sample.",
+      "ethical": false,
+      "example": "I met two people from that city, and they were rude. Everyone from there must be rude.",
+      "problem": "It draws an unjustified conclusion from insufficient evidence.",
+      "counter_response": "Point out the small sample size: 'Two people aren't enough to represent an entire city. Let's avoid generalizations.'"
+    },
+    {
+      "technique": "Tu Quoque",
+      "description": "Deflecting criticism by accusing the other person of the same or similar behavior.",
+      "ethical": false,
+      "example": "Person A: You shouldn't smoke. Person B: But you used to smoke, so you can't judge me.",
+      "problem": "It avoids addressing the criticism by shifting blame.",
+      "counter_response": "Refocus on the issue: 'Whether I smoked or not doesn't change the fact that smoking is harmful. Let's discuss the health risks.'"
+    },
+    {
+      "technique": "Appeal to Ignorance",
+      "description": "Arguing that something is true because it hasn't been proven false, or vice versa.",
+      "ethical": false,
+      "example": "No one has proven that ghosts don't exist, so they must be real.",
+      "problem": "It mistakes lack of evidence for evidence of truth.",
+      "counter_response": "Highlight the fallacy: 'Absence of evidence isn't evidence of existence. Let's focus on what we can prove.'"
+    },
+    {
+      "technique": "Logical Reasoning",
+      "description": "Using valid premises and sound logic to construct an argument.",
+      "ethical": true,
+      "example": "If all humans are mortal, and Socrates is a human, then Socrates is mortal.",
+      "problem": "None (this is a valid and ethical technique).",
+      "counter_response": "None (this is a valid and ethical technique)."
+    },
+    {
+      "technique": "Analogical Argument",
+      "description": "Drawing parallels between similar situations to support a conclusion.",
+      "ethical": true,
+      "example": "Just as a doctor diagnoses an illness before prescribing medicine, we should analyze the problem before proposing solutions.",
+      "problem": "None (this is a valid and ethical technique).",
+      "counter_response": "None (this is a valid and ethical technique)."
+    },
+    {
+      "technique": "Empirical Evidence",
+      "description": "Using observable and measurable data to support an argument.",
+      "ethical": true,
+      "example": "Studies show that regular exercise reduces the risk of heart disease, so we should encourage physical activity.",
+      "problem": "None (this is a valid and ethical technique).",
+      "counter_response": "None (this is a valid and ethical technique)."
+    },
+    {
+      "technique": "Appeal to Expertise",
+      "description": "Citing credible experts or sources to support a claim.",
+      "ethical": true,
+      "example": "Leading economists agree that raising the minimum wage will reduce poverty.",
+      "problem": "None (this is a valid and ethical technique).",
+      "counter_response": "None (this is a valid and ethical technique)."
+    },
+    {
+      "technique": "Counterexample",
+      "description": "Providing an example that disproves a general claim.",
+      "ethical": true,
+      "example": "You claim all birds can fly, but penguins are birds that cannot fly.",
+      "problem": "None (this is a valid and ethical technique).",
+      "counter_response": "None (this is a valid and ethical technique)."
+    }
+  ]
+}

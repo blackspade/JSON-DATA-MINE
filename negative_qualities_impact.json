@@ -1,0 +1,157 @@
+{
+  "negative_qualities": [
+    {
+      "quality": "Selfish",
+      "description": "Prioritizing one's own needs and desires over others' well-being.",
+      "effects": "Leads to broken relationships, lack of trust, and social isolation.",
+      "consequences": "Reduced quality of life due to loneliness and lack of support systems.",
+      "example": "A manager who takes credit for their team's work may lose respect and cooperation from colleagues.",
+      "research": "Research by Baumeister & Leary (1995) highlights the importance of social connections for mental health."
+    },
+    {
+      "quality": "Lovers of money",
+      "description": "Excessive desire for wealth, often at the expense of ethics or relationships.",
+      "effects": "Can lead to greed, exploitation, and unethical behavior.",
+      "consequences": "Financial success may come at the cost of personal happiness and meaningful relationships.",
+      "example": "The 2008 financial crisis, driven by greed and unethical practices in the banking sector, led to global economic turmoil.",
+      "research": "Studies by Kahneman & Deaton (2010) show that beyond a certain income level, increased wealth does not correlate with increased happiness."
+    },
+    {
+      "quality": "Boastful",
+      "description": "Excessive pride in one's achievements or abilities.",
+      "effects": "Creates resentment and alienation from others.",
+      "consequences": "Damages relationships and reduces opportunities for collaboration.",
+      "example": "A coworker who constantly brags about their accomplishments may be excluded from team projects.",
+      "research": "Research by Tracy & Robins (2007) links excessive pride to social rejection."
+    },
+    {
+      "quality": "Haughty",
+      "description": "Arrogance or disdain toward others.",
+      "effects": "Erodes respect and trust in personal and professional relationships.",
+      "consequences": "Leads to isolation and missed opportunities for growth.",
+      "example": "A leader who dismisses their team's ideas may stifle innovation and morale.",
+      "research": "Studies by Johnson et al. (2010) show that humility in leadership fosters trust and collaboration."
+    },
+    {
+      "quality": "Blasphemers",
+      "description": "Disrespectful or irreverent behavior toward sacred beliefs or practices.",
+      "effects": "Can provoke conflict and division in communities.",
+      "consequences": "Leads to social ostracism and loss of respect.",
+      "example": "Historical conflicts, such as the Crusades, were fueled by religious disrespect and intolerance.",
+      "research": "Research by Ginges et al. (2007) highlights the role of religious disrespect in escalating intergroup conflict."
+    },
+    {
+      "quality": "Disobedient to parents",
+      "description": "Refusal to respect or follow parental guidance.",
+      "effects": "Strains family relationships and undermines authority.",
+      "consequences": "Can lead to poor decision-making and lack of discipline in life.",
+      "example": "A teenager who ignores curfew rules may engage in risky behaviors, leading to long-term consequences.",
+      "research": "Studies by Steinberg (2001) emphasize the importance of parental guidance in adolescent development."
+    },
+    {
+      "quality": "Unthankful",
+      "description": "Lack of gratitude or appreciation for others' efforts.",
+      "effects": "Creates resentment and discourages generosity.",
+      "consequences": "Reduces social support and fosters a negative environment.",
+      "example": "An employee who never thanks their colleagues for help may find themselves excluded from future collaborations.",
+      "research": "Research by Emmons & McCullough (2003) shows that gratitude enhances social bonds and well-being."
+    },
+    {
+      "quality": "Disloyal",
+      "description": "Betrayal of trust or commitment to others.",
+      "effects": "Destroys trust and damages relationships.",
+      "consequences": "Leads to isolation and loss of opportunities for meaningful connections.",
+      "example": "A friend who spreads secrets may lose friendships and social standing.",
+      "research": "Studies by Rempel et al. (1985) highlight the importance of trust in maintaining relationships."
+    },
+    {
+      "quality": "Having no natural affection",
+      "description": "Lack of empathy or compassion for others.",
+      "effects": "Creates a cold and uncaring environment.",
+      "consequences": "Leads to social isolation and emotional detachment.",
+      "example": "A parent who neglects their child's emotional needs may cause long-term psychological harm.",
+      "research": "Research by Bowlby (1969) emphasizes the importance of affection in early childhood development."
+    },
+    {
+      "quality": "Not open to any agreement",
+      "description": "Refusal to compromise or collaborate.",
+      "effects": "Stifles progress and creates conflict.",
+      "consequences": "Leads to stagnation and missed opportunities for growth.",
+      "example": "A politician who refuses to negotiate may cause government gridlock.",
+      "research": "Studies by Deutsch (1973) highlight the importance of cooperation in conflict resolution."
+    },
+    {
+      "quality": "Slanderers",
+      "description": "Spreading false or damaging information about others.",
+      "effects": "Damages reputations and creates mistrust.",
+      "consequences": "Leads to social and professional ostracism.",
+      "example": "A coworker who spreads rumors may face disciplinary action or job loss.",
+      "research": "Research by Kowalski (1996) shows the psychological harm caused by slander."
+    },
+    {
+      "quality": "Without self-control",
+      "description": "Inability to regulate emotions or impulses.",
+      "effects": "Leads to poor decision-making and harmful behaviors.",
+      "consequences": "Damages relationships and personal well-being.",
+      "example": "A person who cannot control their anger may lash out, causing harm to themselves and others.",
+      "research": "Studies by Baumeister et al. (1994) link self-control to success and well-being."
+    },
+    {
+      "quality": "Fierce",
+      "description": "Aggressive or violent behavior.",
+      "effects": "Creates fear and instability in relationships and communities.",
+      "consequences": "Leads to social exclusion and legal consequences.",
+      "example": "Historical figures like Genghis Khan, known for their fierceness, caused widespread destruction and suffering.",
+      "research": "Research by Anderson & Bushman (2002) highlights the societal costs of aggression."
+    },
+    {
+      "quality": "Without love of goodness",
+      "description": "Lack of appreciation for moral or ethical behavior.",
+      "effects": "Encourages unethical actions and societal decay.",
+      "consequences": "Leads to a breakdown of trust and social cohesion.",
+      "example": "Corrupt leaders who prioritize power over justice often harm their nations, as seen in the case of dictators like Mobutu Sese Seko.",
+      "research": "Studies by Haidt (2007) emphasize the role of moral values in societal stability."
+    },
+    {
+      "quality": "Betrayers",
+      "description": "Breaking trust or loyalty for personal gain.",
+      "effects": "Destroys relationships and creates lasting distrust.",
+      "consequences": "Leads to social and professional isolation.",
+      "example": "Judas Iscariot's betrayal of Jesus is a historical example of the devastating consequences of betrayal.",
+      "research": "Research by Elangovan & Shapiro (1998) explores the psychological impact of betrayal."
+    },
+    {
+      "quality": "Headstrong",
+      "description": "Stubborn refusal to consider others' perspectives.",
+      "effects": "Stifles collaboration and creates conflict.",
+      "consequences": "Leads to missed opportunities and damaged relationships.",
+      "example": "A leader who ignores advice may make poor decisions, as seen in the failure of the Bay of Pigs invasion.",
+      "research": "Studies by Janis (1972) highlight the dangers of groupthink and stubbornness in decision-making."
+    },
+    {
+      "quality": "Puffed up with pride",
+      "description": "Excessive self-importance or arrogance.",
+      "effects": "Creates resentment and alienation.",
+      "consequences": "Leads to social isolation and missed opportunities for growth.",
+      "example": "Napoleon Bonaparte's overconfidence led to his downfall at the Battle of Waterloo.",
+      "research": "Research by Tracy & Robins (2007) links excessive pride to social rejection."
+    },
+    {
+      "quality": "Lovers of pleasures rather than lovers of God",
+      "description": "Prioritizing hedonism over spiritual or moral values.",
+      "effects": "Leads to a lack of purpose and moral decay.",
+      "consequences": "Reduces long-term happiness and fulfillment.",
+      "example": "The decline of the Roman Empire is often attributed to moral decay and excessive indulgence.",
+      "research": "Studies by Diener et al. (1999) show that meaningful pursuits contribute more to happiness than hedonism."
+    },
+    {
+      "quality": "Having an appearance of godliness but proving false to its power",
+      "description": "Hypocrisy or insincerity in moral or religious behavior.",
+      "effects": "Erodes trust and undermines moral authority.",
+      "consequences": "Leads to cynicism and societal disillusionment.",
+      "example": "Televangelists who preach morality but engage in scandals damage public trust in religious institutions.",
+      "research": "Research by Batson et al. (1997) explores the negative effects of moral hypocrisy."
+    }
+  ],
+  "end_result": "Destroy Trust and Connection with others"
+}
