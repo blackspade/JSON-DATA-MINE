@@ -1,0 +1,92 @@
+{
+  "driving_insights": {
+    "beginner": [
+      {
+        "insight": "Always wear your seatbelt and ensure all passengers do the same.",
+        "description": "Seatbelts are the first line of defense in case of an accident."
+      },
+      {
+        "insight": "Obey traffic signals and signs.",
+        "description": "Stop at red lights, yield when required, and follow speed limits."
+      },
+      {
+        "insight": "Keep a safe distance from the car in front of you.",
+        "description": "Maintain at least a 2-second gap to allow time to react."
+      },
+      {
+        "insight": "Use turn signals when changing lanes or turning.",
+        "description": "Signaling communicates your intentions to other drivers."
+      },
+      {
+        "insight": "Avoid distractions like texting or using your phone.",
+        "description": "Stay focused on the road at all times."
+      }
+    ],
+    "intermediate": [
+      {
+        "insight": "Scan intersections carefully before proceeding.",
+        "description": "Look for oncoming traffic, pedestrians, and cyclists."
+      },
+      {
+        "insight": "Adjust your speed based on weather conditions.",
+        "description": "Slow down in rain, snow, or fog to maintain control."
+      },
+      {
+        "insight": "Use mirrors frequently to stay aware of your surroundings.",
+        "description": "Check blind spots before changing lanes or merging."
+      },
+      {
+        "insight": "Anticipate the actions of other drivers.",
+        "description": "Watch for sudden lane changes or braking from others."
+      },
+      {
+        "insight": "Practice smooth acceleration and braking.",
+        "description": "Avoid jerky movements to improve fuel efficiency and safety."
+      }
+    ],
+    "advanced": [
+      {
+        "insight": "Position your car strategically in lanes.",
+        "description": "In multi-lane roads, choose lanes based on traffic flow and your destination."
+      },
+      {
+        "insight": "Use the express lane wisely.",
+        "description": "The express lane is safer as you only need to monitor vehicles behind and to your right."
+      },
+      {
+        "insight": "Master defensive driving techniques.",
+        "description": "Always have an escape route in mind in case of sudden hazards."
+      },
+      {
+        "insight": "Handle skids and hydroplaning effectively.",
+        "description": "Steer into the skid and avoid slamming brakes in slippery conditions."
+      },
+      {
+        "insight": "Navigate complex traffic situations calmly.",
+        "description": "Stay patient and focused in heavy traffic or construction zones."
+      }
+    ],
+    "master": [
+      {
+        "insight": "Predict and avoid potential hazards proactively.",
+        "description": "Look far ahead and identify risks like erratic drivers or road debris."
+      },
+      {
+        "insight": "Optimize fuel efficiency through advanced driving techniques.",
+        "description": "Use cruise control, maintain steady speeds, and avoid unnecessary idling."
+      },
+      {
+        "insight": "Drive smoothly in high-stress situations.",
+        "description": "Remain calm and make calculated decisions during emergencies."
+      },
+      {
+        "insight": "Teach others safe driving habits.",
+        "description": "Share your knowledge to help new drivers become safer on the road."
+      },
+      {
+        "insight": "Adapt to unfamiliar roads and driving conditions.",
+        "description": "Stay alert and adjust quickly to new environments, such as driving in a foreign country."
+      }
+    ]
+  }
+}

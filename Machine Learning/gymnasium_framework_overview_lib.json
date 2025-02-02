@@ -1,0 +1,167 @@
+{
+  "framework_name": "Gymnasium (formerly OpenAI Gym)",
+  "description": "Gymnasium is a toolkit for developing and comparing reinforcement learning algorithms. It provides a wide variety of environments to test and train RL agents.",
+  "summary": [
+    {
+      "topic": "Introduction to Gymnasium",
+      "description": "Gymnasium is a library that provides standardized environments for reinforcement learning, making it easier to develop and test RL algorithms.",
+      "child_explanation": "Imagine you’re teaching a robot to play games. Gymnasium is like a playground full of different games where the robot can practice and learn!",
+      "python_example": {
+        "code": "import gymnasium as gym\nenv = gym.make('CartPole-v1')\nobservation = env.reset()",
+        "explanation": "This code sets up the CartPole environment, where the goal is to balance a pole on a cart."
+      },
+      "definitions": [
+        {
+          "term": "Environment",
+          "definition": "A virtual world or game where the agent interacts and learns, like a playground for robots."
+        },
+        {
+          "term": "Agent",
+          "definition": "The learner or decision-maker (like a robot) that interacts with the environment."
+        },
+        {
+          "term": "Observation",
+          "definition": "What the agent sees or senses in the environment, like the position of the pole in CartPole."
+        }
+      ]
+    },
+    {
+      "topic": "Creating and Using Environments",
+      "description": "Gymnasium provides a wide range of pre-built environments, from simple control tasks to complex simulations. You can also create custom environments.",
+      "child_explanation": "Imagine you have a toy box full of different games. Gymnasium lets you pick a game to play or even create your own!",
+      "python_example": {
+        "code": "import gymnasium as gym\nenv = gym.make('MountainCar-v0')\nobservation = env.reset()\nprint(observation)",
+        "explanation": "This code sets up the MountainCar environment, where the goal is to drive a car up a hill."
+      },
+      "definitions": [
+        {
+          "term": "Pre-built Environment",
+          "definition": "A ready-to-use environment provided by Gymnasium, like CartPole or MountainCar."
+        },
+        {
+          "term": "Custom Environment",
+          "definition": "An environment you create yourself, tailored to your specific needs."
+        },
+        {
+          "term": "Reset",
+          "definition": "Starting the environment over, like restarting a game."
+        }
+      ]
+    },
+    {
+      "topic": "Interacting with Environments",
+      "description": "In Gymnasium, the agent interacts with the environment by taking actions and receiving observations and rewards.",
+      "child_explanation": "Imagine you’re playing a video game. You press buttons to move, and the game tells you what’s happening and gives you points. Gymnasium works the same way!",
+      "python_example": {
+        "code": "action = env.action_space.sample()\nobservation, reward, done, info = env.step(action)",
+        "explanation": "This code takes a random action in the environment and receives the new observation, reward, and whether the episode is done."
+      },
+      "definitions": [
+        {
+          "term": "Action",
+          "definition": "A move the agent makes, like pressing a button in a game."
+        },
+        {
+          "term": "Reward",
+          "definition": "A score that tells the agent how well it’s doing, like points in a game."
+        },
+        {
+          "term": "Episode",
+          "definition": "A single round of interaction, like one game of CartPole."
+        }
+      ]
+    },
+    {
+      "topic": "Spaces: Action and Observation",
+      "description": "Gymnasium defines the possible actions and observations using spaces, such as Discrete or Box spaces.",
+      "child_explanation": "Imagine you’re playing a game with rules about what you can do and see. Gymnasium uses spaces to define these rules!",
+      "python_example": {
+        "code": "print(env.action_space)\nprint(env.observation_space)",
+        "explanation": "This code prints the action and observation spaces for the environment, showing what actions the agent can take and what observations it can receive."
+      },
+      "definitions": [
+        {
+          "term": "Discrete Space",
+          "definition": "A space with a fixed number of possible actions or observations, like a set of buttons."
+        },
+        {
+          "term": "Box Space",
+          "definition": "A space with continuous values, like a slider or joystick."
+        },
+        {
+          "term": "Space",
+          "definition": "A set of possible actions or observations, like the rules of a game."
+        }
+      ]
+    },
+    {
+      "topic": "Rendering Environments",
+      "description": "Gymnasium allows you to visualize environments by rendering them, which is useful for debugging and understanding agent behavior.",
+      "child_explanation": "Imagine you’re watching the robot play a game on a screen. Rendering lets you see what’s happening in the environment!",
+      "python_example": {
+        "code": "env.render()",
+        "explanation": "This code renders the environment, showing a visual representation of the current state."
+      },
+      "definitions": [
+        {
+          "term": "Rendering",
+          "definition": "Displaying the environment visually, like showing a game on a screen."
+        },
+        {
+          "term": "Visualization",
+          "definition": "Seeing what’s happening in the environment, like watching a movie."
+        },
+        {
+          "term": "Debugging",
+          "definition": "Fixing problems in the agent or environment by looking at what’s happening."
+        }
+      ]
+    },
+    {
+      "topic": "Custom Environments",
+      "description": "Gymnasium allows you to create custom environments tailored to your specific needs, such as new games or simulations.",
+      "child_explanation": "Imagine you want to create your own game for the robot to play. Gymnasium lets you build the game and teach the robot how to play it!",
+      "python_example": {
+        "code": "class CustomEnv(gym.Env):\n    def __init__(self):\n        super(CustomEnv, self).__init__()\n        self.action_space = gym.spaces.Discrete(2)\n        self.observation_space = gym.spaces.Box(low=0, high=1, shape=(1,))",
+        "explanation": "This code defines a custom environment with a discrete action space and a continuous observation space."
+      },
+      "definitions": [
+        {
+          "term": "Custom Environment",
+          "definition": "An environment you create yourself, tailored to your specific needs."
+        },
+        {
+          "term": "Inheritance",
+          "definition": "Using a base environment to create a new one, like building a new toy from an old one."
+        },
+        {
+          "term": "Simulation",
+          "definition": "A virtual world where the agent can practice and learn."
+        }
+      ]
+    },
+    {
+      "topic": "Wrappers",
+      "description": "Wrappers are used to modify or extend the behavior of existing environments, such as adding preprocessing or logging.",
+      "child_explanation": "Imagine you’re adding new rules or features to a game. Wrappers let you change how the environment works without starting from scratch!",
+      "python_example": {
+        "code": "from gymnasium.wrappers import RescaleAction\nenv = gym.make('Pendulum-v1')\nwrapped_env = RescaleAction(env, min_action=0, max_action=1)",
+        "explanation": "This code wraps the Pendulum environment to rescale its action space."
+      },
+      "definitions": [
+        {
+          "term": "Wrapper",
+          "definition": "A tool that modifies or extends an environment, like adding a new rule to a game."
+        },
+        {
+          "term": "Preprocessing",
+          "definition": "Changing the data before the agent sees it, like resizing an image."
+        },
+        {
+          "term": "Logging",
+          "definition": "Recording what happens in the environment, like keeping a diary of the robot’s actions."
+        }
+      ]
+    }
+  ]
+}

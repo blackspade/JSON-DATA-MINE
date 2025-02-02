@@ -1,0 +1,167 @@
+{
+  "course_title": "Andrew Ng's Machine Learning",
+  "instructor": "Andrew Ng",
+  "summary": [
+    {
+      "topic": "Introduction to Machine Learning",
+      "description": "Machine learning is the science of getting computers to learn from data and make predictions or decisions without being explicitly programmed.",
+      "child_explanation": "Imagine you have a robot friend who learns to recognize your favorite toys by looking at pictures. Machine learning is like teaching your robot friend to get smarter by showing it lots of examples!",
+      "python_example": {
+        "code": "from sklearn.linear_model import LinearRegression\nmodel = LinearRegression()\nmodel.fit(X_train, y_train)",
+        "explanation": "This code trains a simple machine learning model to predict values using linear regression."
+      },
+      "definitions": [
+        {
+          "term": "Supervised Learning",
+          "definition": "When the robot learns from labeled examples, like being told which pictures are cats and which are dogs."
+        },
+        {
+          "term": "Unsupervised Learning",
+          "definition": "When the robot learns patterns from data without any labels, like grouping similar toys together."
+        },
+        {
+          "term": "Dataset",
+          "definition": "A collection of examples used to teach the robot, like a photo album."
+        }
+      ]
+    },
+    {
+      "topic": "Linear Regression",
+      "description": "Linear regression is a supervised learning algorithm used to predict a continuous outcome based on one or more input features.",
+      "child_explanation": "Imagine you’re trying to guess how tall a plant will grow based on how much water it gets. Linear regression helps the robot make a straight-line guess!",
+      "python_example": {
+        "code": "from sklearn.linear_model import LinearRegression\nmodel = LinearRegression()\nmodel.fit(X_train, y_train)\npredictions = model.predict(X_test)",
+        "explanation": "This code trains a linear regression model and uses it to make predictions."
+      },
+      "definitions": [
+        {
+          "term": "Feature",
+          "definition": "An input variable, like the amount of water given to a plant."
+        },
+        {
+          "term": "Target",
+          "definition": "The output variable we want to predict, like the height of the plant."
+        },
+        {
+          "term": "Hypothesis",
+          "definition": "A guess or prediction made by the model, like the estimated height of the plant."
+        }
+      ]
+    },
+    {
+      "topic": "Logistic Regression",
+      "description": "Logistic regression is a supervised learning algorithm used for binary classification problems, where the outcome is either 0 or 1.",
+      "child_explanation": "Imagine you’re teaching the robot to decide if an email is spam or not. Logistic regression helps the robot make a yes-or-no decision!",
+      "python_example": {
+        "code": "from sklearn.linear_model import LogisticRegression\nmodel = LogisticRegression()\nmodel.fit(X_train, y_train)\npredictions = model.predict(X_test)",
+        "explanation": "This code trains a logistic regression model and uses it to classify data."
+      },
+      "definitions": [
+        {
+          "term": "Binary Classification",
+          "definition": "A problem where the answer is either yes or no, like spam or not spam."
+        },
+        {
+          "term": "Sigmoid Function",
+          "definition": "A special math function that squishes the robot’s guess into a yes-or-no answer."
+        },
+        {
+          "term": "Decision Boundary",
+          "definition": "A line that separates yes answers from no answers."
+        }
+      ]
+    },
+    {
+      "topic": "Neural Networks",
+      "description": "Neural networks are a set of algorithms inspired by the human brain, designed to recognize patterns in data.",
+      "child_explanation": "Imagine the robot has a tiny brain made of layers, like a cake. Each layer helps it understand something new about the data, like recognizing shapes or colors!",
+      "python_example": {
+        "code": "from tensorflow.keras.models import Sequential\nfrom tensorflow.keras.layers import Dense\nmodel = Sequential([Dense(10, activation='relu', input_shape=(4,)), Dense(1, activation='sigmoid')])",
+        "explanation": "This code creates a simple neural network with one hidden layer."
+      },
+      "definitions": [
+        {
+          "term": "Neuron",
+          "definition": "A tiny part of the neural network that helps process information, like a brain cell."
+        },
+        {
+          "term": "Activation Function",
+          "definition": "A special math function that helps the neuron decide whether to 'fire' or not."
+        },
+        {
+          "term": "Backpropagation",
+          "definition": "A way for the robot to learn from its mistakes by adjusting its brain."
+        }
+      ]
+    },
+    {
+      "topic": "Support Vector Machines (SVM)",
+      "description": "SVMs are supervised learning models used for classification and regression tasks. They find the best boundary to separate different classes of data.",
+      "child_explanation": "Imagine you’re drawing a line to separate apples from oranges on a table. SVMs help the robot find the best line so no fruit is on the wrong side!",
+      "python_example": {
+        "code": "from sklearn.svm import SVC\nmodel = SVC(kernel='linear')\nmodel.fit(X_train, y_train)\npredictions = model.predict(X_test)",
+        "explanation": "This code trains an SVM model to classify data using a linear boundary."
+      },
+      "definitions": [
+        {
+          "term": "Kernel",
+          "definition": "A tool that helps the robot draw lines or curves to separate data."
+        },
+        {
+          "term": "Margin",
+          "definition": "The space between the line and the closest data points. A bigger margin is better!"
+        },
+        {
+          "term": "Hyperplane",
+          "definition": "The line or surface that separates different classes of data."
+        }
+      ]
+    },
+    {
+      "topic": "Clustering (K-Means)",
+      "description": "Clustering is an unsupervised learning technique used to group similar data points together.",
+      "child_explanation": "Imagine you have a box of mixed-up toys. Clustering helps the robot sort them into groups, like all the cars in one pile and all the dolls in another!",
+      "python_example": {
+        "code": "from sklearn.cluster import KMeans\nkmeans = KMeans(n_clusters=3)\nkmeans.fit(X)\nlabels = kmeans.predict(X)",
+        "explanation": "This code uses K-Means clustering to group data into 3 clusters."
+      },
+      "definitions": [
+        {
+          "term": "Cluster",
+          "definition": "A group of similar data points, like a pile of cars or dolls."
+        },
+        {
+          "term": "Centroid",
+          "definition": "The center point of a cluster, like the middle of a toy pile."
+        },
+        {
+          "term": "Unsupervised Learning",
+          "definition": "When the robot learns patterns from data without any labels."
+        }
+      ]
+    },
+    {
+      "topic": "Dimensionality Reduction (PCA)",
+      "description": "Principal Component Analysis (PCA) is a technique used to reduce the number of features in a dataset while preserving important information.",
+      "child_explanation": "Imagine you have a big, messy drawing with too many details. PCA helps the robot simplify the drawing by keeping only the most important parts!",
+      "python_example": {
+        "code": "from sklearn.decomposition import PCA\npca = PCA(n_components=2)\nX_reduced = pca.fit_transform(X)",
+        "explanation": "This code reduces the dataset to 2 dimensions using PCA."
+      },
+      "definitions": [
+        {
+          "term": "Feature",
+          "definition": "An input variable, like a detail in the drawing."
+        },
+        {
+          "term": "Variance",
+          "definition": "A measure of how spread out the data is. PCA keeps the parts with the most variance."
+        },
+        {
+          "term": "Principal Component",
+          "definition": "A new feature created by PCA that captures the most important information."
+        }
+      ]
+    }
+  ]
+}
